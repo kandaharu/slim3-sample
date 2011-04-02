@@ -1,0 +1,34 @@
+#surefire
+#Sat Apr 02 19:12:26 JST 2011
+testClassesDirectory=/Users/yuh/work/workarea/eclipse/slim3-sample/target/test-classes
+classPathUrl.4=/Users/yuh/.m2/repository/com/google/appengine/appengine-api-labs/1.4.2/appengine-api-labs-1.4.2.jar
+classPathUrl.3=/Users/yuh/.m2/repository/com/google/appengine/appengine-api-1.0-sdk/1.4.2/appengine-api-1.0-sdk-1.4.2.jar
+classPathUrl.2=/Users/yuh/.m2/repository/org/slim3/slim3/1.0.9/slim3-1.0.9.jar
+useManifestOnlyJar=true
+classPathUrl.1=/Users/yuh/work/workarea/eclipse/slim3-sample/war/WEB-INF/classes
+reportsDirectory=/Users/yuh/work/workarea/eclipse/slim3-sample/target/surefire-reports
+classPathUrl.0=/Users/yuh/work/workarea/eclipse/slim3-sample/target/test-classes
+dirscanner.0=directoryScannerOptions
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=/Users/yuh/work/workarea/eclipse/slim3-sample/src/test/java
+surefireClassPathUrl.1=/Users/yuh/.m2/repository/org/apache/maven/surefire/surefire-api/2.7.1/surefire-api-2.7.1.jar
+surefireClassPathUrl.0=/Users/yuh/.m2/repository/org/apache/maven/surefire/surefire-junit4/2.7.1/surefire-junit4-2.7.1.jar
+report.2=org.apache.maven.surefire.report.XMLReporter
+useSystemClassLoader=true
+report.1=org.apache.maven.surefire.report.BriefFileReporter
+report.0=org.apache.maven.surefire.report.ForkingConsoleReporter
+excludes0=**/*$*
+isTrimStackTrace=true
+dirscanner.0.params=/Users/yuh/work/workarea/eclipse/slim3-sample/target/test-classes|[**/Test*.java, **/*Test.java, **/*TestCase.java]|[**/*$*]
+includes2=**/*TestCase.java
+enableAssertions=true
+includes1=**/*Test.java
+failIfNoTests=false
+includes0=**/Test*.java
+dirscanner.0.types=java.io.File|java.util.ArrayList|java.util.ArrayList
+classPathUrl.9=/Users/yuh/.m2/repository/com/google/appengine/appengine-local-runtime/1.4.2/appengine-local-runtime-1.4.2.jar
+classPathUrl.8=/Users/yuh/.m2/repository/com/google/appengine/appengine-api-stubs/1.4.2/appengine-api-stubs-1.4.2.jar
+classPathUrl.7=/Users/yuh/.m2/repository/junit/junit/4.7/junit-4.7.jar
+childDelegation=false
+classPathUrl.6=/Users/yuh/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar
+classPathUrl.5=/Users/yuh/.m2/repository/org/slim3/slim3-gen/1.0.9/slim3-gen-1.0.9.jar
